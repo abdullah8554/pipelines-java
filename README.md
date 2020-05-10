@@ -1,4 +1,4 @@
-https://dev.azure.com/abdullah85541/Azure%20pipelines/_apis/build/status/abdullah8554.pipelines-java?branchName=master!
+[![Build Status](https://dev.azure.com/abdullah85541/Azure%20pipelines/_apis/build/status/abdullah8554.pipelines-java?branchName=master)](https://dev.azure.com/abdullah85541/Azure%20pipelines/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
